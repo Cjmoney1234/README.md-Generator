@@ -30,4 +30,4 @@ THEN I am taken to the corresponding section of the README
 ```
 
   ## Live Video
-[![Watch the video](/README.md-Generator/Develop/assets/Screenshot%202023-01-17%20182522.png)](/README.md-Generator/Develop/assets/Untitled_%20Jan%2017%2C%202023%205_57%20PM.webm)
+[![Watch the video](./Develop/assets/Screenshot%202023-01-17%20182522.png)](https://www.youtube.com/watch?v=VsLXoYf3JTo)
